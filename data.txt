@@ -1,3 +1,3 @@
 Name: Jino Hong
-Age: 28
-Favorite Color: Black
+Age: 28 >> 29 2022
+Favorite Color: Black + white
